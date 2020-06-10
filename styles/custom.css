@@ -1,0 +1,48 @@
+#calander {
+    background-color: rgb(250, 250, 250);
+    width: 250px;
+    border: 1px solid black;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+}
+
+#showDayName {
+    font-size: 18px;
+    text-align: center;
+}
+
+#showDay {
+    font-size: 20px;
+    text-align: center;
+}
+
+#showDayNumber {
+    font-size: 150px;
+    font-weight: 900;
+    text-align: center;
+    line-height: 110px;
+}
+
+#showMonthName {
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+}
+
+#showYear {
+    padding-top: 1px;
+    padding-left: 1px;
+    font-size: 20px;
+}
+
+#showHelgdag {
+    font-size: 20px;
+    text-align: center;
+}
+
+#showFlaggdag {
+    padding-top: 1px;
+    padding-left: 1px;
+    font-size: 20px;
+}
