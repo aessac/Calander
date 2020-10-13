@@ -1,6 +1,4 @@
-## Calander Aplication With JavaScript, CSS, JQuery, Ajax & Bootstrap.
-
-A JavaScript course assigment.
+## Calander Application With JavaScript, CSS, JQuery, Ajax & Bootstrap.
 
 **Application contains:**
 * Calls an API for the data.
